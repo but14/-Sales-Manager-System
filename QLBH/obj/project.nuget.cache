@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "+W56tXwuLyI=",
+  "success": false,
+  "projectFilePath": "D:\\LAPTRINHWINDOW\\QLBH\\QLBH\\QLBH\\QLBH.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\DevE\\Components\\Offline Packages' doesn't exist.",
+      "libraryId": "Microsoft.EntityFrameworkCore"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\DevE\\Components\\Offline Packages' doesn't exist.",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\DevE\\Components\\Offline Packages' doesn't exist.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Tools"
+    }
+  ]
+}
