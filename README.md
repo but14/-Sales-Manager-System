@@ -3,4 +3,4 @@
   - C#
   - EFCore
   - Entity Framework
-<img src="[https://imgur.com/a/8MGWEGW]">
+<img src="https://imgur.com/undefined">
